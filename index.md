@@ -2,7 +2,7 @@
 layout: homepage
 title: Health Certs
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/healthcert-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
