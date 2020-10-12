@@ -7,10 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
+        title: What is Health Certs?
+        subtitle: Text explain what Health Certs is all about?
+        background: /images/hero-banner.jpg
+        button: Get started here
         url: /contact-us/
         key_highlights:
             - title: Highlight A
