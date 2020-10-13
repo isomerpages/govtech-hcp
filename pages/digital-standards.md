@@ -35,9 +35,9 @@ Two modes of presentation shall be made available to the document bearers
     <li>  A link to fetch the HealthCert</li>
     <li>Decryption key to decrypt HealthCert payload </li>
     <li>URL to perform verification of HealthCert </li>
-    <li>Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a><br><br></li>
+    <li>Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a><br></li>
     </ol>
-    <li>QR code shall be readable by any standard QR code reader (non-proprietary formatting)<br></li>
+    <li>QR code shall be readable by any standard QR code reader (non-proprietary formatting)<br><br></li>
     </ol>
     
 2.  Rendering of document on a Mobile App
