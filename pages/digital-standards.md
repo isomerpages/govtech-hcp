@@ -4,9 +4,9 @@ permalink: /digital-standards/
 ---
 <style type="text/css">
 
-ul {
+.no_bullets {
     list-style-type: none;
-    margin-left: 40px;
+
 }
 </style>
 
@@ -25,7 +25,7 @@ D.	Scalable
 Two modes of presentation shall be made available to the document bearers
 
 1. [QR code](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md) <br>
-    <ul>
+    <ul class="no_bullets">
     <li>a. The QR code shall contain the following components:</li>
         
     <li><li>i.  A link to fetch the HealthCert</li></li>
