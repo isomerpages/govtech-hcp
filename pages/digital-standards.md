@@ -2,13 +2,22 @@
 title: Digital Standards v4.1
 permalink: /digital-standards/
 ---
+<style type="text/css">
 
+ul {
+    list-style-type: none;
+    margin-left: 40px;
+}
+</style>
 
 ## Key Attributes
 
 A.	Interoperability
+
 B.	Verifiable
+
 C.	Secure (Tamper-proof)
+
 D.	Scalable
 
 ## Presentation
@@ -16,17 +25,18 @@ D.	Scalable
 Two modes of presentation shall be made available to the document bearers
 
 1. [QR code](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md) <br>
-    a. The QR code shall contain the following components:<br>
-        i.  A link to fetch the HealthCert<br>
-        ii. Decryption key to decrypt HealthCert payload<br>
-        iii. URL to perform verification of HealthCert<br>
-        iv. Encryption shall be based performed using[oa-encrypt](https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts)<br>
-
-    b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)<br>
-
+    <ul>
+    <li>a. The QR code shall contain the following components:</li>
+        
+    <li><li>i.  A link to fetch the HealthCert</li></li>
+        ii. Decryption key to decrypt HealthCert payload 
+        iii. URL to perform verification of HealthCert 
+    <li><li>iv. Encryption shall be based performed using [oa-encrypt](https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts)</li></li>
+    <li>b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)</li>
+    </ul>
 2.  Rendering of document on a Mobile App
 
-Refer[here](https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md) for details.
+Refer [here](https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md) for details.
 
 ## Verification
 
