@@ -4,7 +4,6 @@ title: Health Certs
 description: Brief site description here
 image: /images/healthcert-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: What is Health Certs?
@@ -12,20 +11,10 @@ sections:
         background: /images/hero-banner.jpg
         button: Get started here
         url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
+        title: List of providers
+        subtitle: Looking for solutions provided by other vendors
         description: About a sentence worth of description here
-        button: Button text
+        button: View them 
         url: /faq/
 ---
