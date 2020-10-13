@@ -4,8 +4,8 @@ permalink: /digital-standards/
 ---
 <style type="text/css">
 
-.no_bullets {
-    list-style-type: none;
+.tab {
+    padding-left: 30px;
 
 }
 </style>
@@ -24,16 +24,20 @@ D.	Scalable
 
 Two modes of presentation shall be made available to the document bearers
 
-1. [QR code](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md) <br>
-    <ul class="no_bullets">
-    <li>a. The QR code shall contain the following components:</li>
+1. [QR code](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md)
+    
+a. The QR code shall contain the following components:
         
-    <li><li>i.  A link to fetch the HealthCert</li></li>
-        ii. Decryption key to decrypt HealthCert payload 
+<span class="tab"> i.  A link to fetch the HealthCert </span>
+
+ii. Decryption key to decrypt HealthCert payload 
+
         iii. URL to perform verification of HealthCert 
-    <li><li>iv. Encryption shall be based performed using [oa-encrypt](https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts)</li></li>
-    <li>b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)</li>
-    </ul>
+
+        iv. Encryption shall be based performed using [oa-encrypt](https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts)
+
+    b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)
+
 2.  Rendering of document on a Mobile App
 
 Refer [here](https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md) for details.
