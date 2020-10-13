@@ -26,18 +26,19 @@ Two modes of presentation shall be made available to the document bearers
 
 1. [QR code](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md)
     
-a. The QR code shall contain the following components:
+    <div class="tab"> a. The QR code shall contain the following components:
         
-<span class="tab"> i.  A link to fetch the HealthCert </span>
+    <p class="tab">i.  A link to fetch the HealthCert</p>
 
-ii. Decryption key to decrypt HealthCert payload 
+    <p class="tab">ii. Decryption key to decrypt HealthCert payload </p>
 
-        iii. URL to perform verification of HealthCert 
+    <p class="tab">iii. URL to perform verification of HealthCert </p>
 
-        iv. Encryption shall be based performed using [oa-encrypt](https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts)
+    <p class="tab">iv. Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a></p>
 
     b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)
-
+    </div>
+    
 2.  Rendering of document on a Mobile App
 
 Refer [here](https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md) for details.
