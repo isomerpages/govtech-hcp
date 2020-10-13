@@ -16,35 +16,33 @@ ol.roman{
 </style>
 
 ## Key Attributes
-
-A.	Interoperability
-
-B.	Verifiable
-
-C.	Secure (Tamper-proof)
-
-D.	Scalable
+<ol class="letter"> 
+<li>Interoperability</li>
+<li>Verifiable</li>
+<li>Secure (Tamper-proof)</li>
+<li>Scalable</li>
+</ol>
 
 ## Presentation
 
 Two modes of presentation shall be made available to the document bearers
 
-1. [QR code](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md)
+1. <a href="https://github.com/Open-Attestation/adr/blob/master/universal_actions.md" target="_blank">QR code</a>
     
     <ol class="letter"> 
-    <li>The QR code shall contain the following components:</li>   
+    <li>The QR code shall contain the following components:<br></li>   
     <ol class="roman">
     <li>  A link to fetch the HealthCert</li>
     <li>Decryption key to decrypt HealthCert payload </li>
     <li>URL to perform verification of HealthCert </li>
-    <li>Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a></li>
+    <li>Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a><br><br></li>
     </ol>
-    <li>b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)</li>
+    <li>QR code shall be readable by any standard QR code reader (non-proprietary formatting)<br><br></li>
     </ol>
     
 2.  Rendering of document on a Mobile App
 
-Refer [here](https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md) for details.
+Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md" target="_blank">here</a> for details.
 
 ## Verification
 
