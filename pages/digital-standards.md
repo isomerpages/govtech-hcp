@@ -4,8 +4,7 @@ permalink: /digital-standards/
 ---
 
 
-Key Attributes
-==============
+##Key Attributes
 
 A.  Interoperability
 
@@ -15,63 +14,42 @@ C.  Secure (Tamper-proof)
 
 D.  Scalable
 
-Presentation
-============
+##Presentation
 
-Two modes of presentation shall be made available to the document
-bearers
+Two modes of presentation shall be made available to the document bearers
 
-1.  [[QR code
-    ]{.ul}](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md)
-
-    a.  The QR code shall contain the following components:
-
+1.[QR code](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md)
+    a. The QR code shall contain the following components:
         i.  A link to fetch the HealthCert
-
         ii. Decryption key to decrypt HealthCert payload
-
         iii. URL to perform verification of HealthCert
+        iv. Encryption shall be based performed using[oa-encrypt](https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts)
 
-        iv. Encryption shall be based performed using
-            [[oa-encrypt]{.ul}](https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts)
-
-    b.  QR code shall be readable by any standard QR code reader
-        (non-proprietary formatting)
+    b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)
 
 2.  Rendering of document on a Mobile App
 
-> Refer
-> [[here]{.ul}](https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md)
-> for details.
+Refer[here](https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md) for details.
 
-Verification
-============
+##Verification
 
 The verifier shall attest the following datasets
 
-ISSUER_IDENTITY
----------------
+##ISSUER_IDENTITY
 
-> Checks and returns the identity of the issuer. Verify the identity of
-> the issuer against a decentralised identity provider (ie DID, DNS,
-> etc) or some centrally managed identity registry.
+Checks and returns the identity of the issuer. Verify the identity of the issuer against a decentralised identity provider (ie DID, DNS, etc) or some centrally managed identity registry.
 
-DOCUMENT_INTEGRITY 
-------------------
+##DOCUMENT_INTEGRITY 
 
-> Checks the integrity of the document by digesting the content of the
-> OA document and comparing it with the document\'s targetHash
+Checks the integrity of the document by digesting the content of the OA document and comparing it with the document\'s targetHash
 
-DOCUMENT_STATUS
----------------
+##DOCUMENT_STATUS
 
-> Checks that the document has been issued and that it\'s issuance
-> status is in good standing. Verify the issuance status against a
-> record maintained externally, ie Records on a Blockchain or API
-> endpoints.
+Checks that the document has been issued and that it\'s issuance status is in good standing. Verify the issuance status against a
+record maintained externally, ie Records on a Blockchain or API endpoints.
 
-Appendix A - Schema
-===================
+##Appendix A - Schema
+
 ```json
 {
     "id": "TEST001",
