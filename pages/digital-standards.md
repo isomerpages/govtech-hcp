@@ -4,10 +4,15 @@ permalink: /digital-standards/
 ---
 <style type="text/css">
 
-.tab {
-    padding-left: 30px;
-
+ol.letter{
+    list-style-type: upper-alpha;
 }
+
+ol.roman{
+    list-style-type: lower-roman;
+}
+
+
 </style>
 
 ## Key Attributes
@@ -26,18 +31,16 @@ Two modes of presentation shall be made available to the document bearers
 
 1. [QR code](https://github.com/Open-Attestation/adr/blob/master/universal_actions.md)
     
-    <div class="tab"> <p>a. The QR code shall contain the following components:</p>
-        
-    <p class="tab">i.  A link to fetch the HealthCert</p>
-
-    <p class="tab">ii. Decryption key to decrypt HealthCert payload </p>
-
-    <p class="tab">iii. URL to perform verification of HealthCert </p>
-
-    <p class="tab">iv. Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a></p>
-
-    <p>b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)</p>
-    </div>
+    <ol class="letter"> 
+    <li>The QR code shall contain the following components:</li>   
+    <ol class="roman">
+    <li>  A link to fetch the HealthCert</li>
+    <li>Decryption key to decrypt HealthCert payload </li>
+    <li>URL to perform verification of HealthCert </li>
+    <li>Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a></li>
+    </ol>
+    <li>b. QR code shall be readable by any standard QR code reader (non-proprietary formatting)</li>
+    </ol>
     
 2.  Rendering of document on a Mobile App
 
