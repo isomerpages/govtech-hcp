@@ -8,7 +8,7 @@ sections:
     - hero:
         title: What is Health Certs?
         subtitle: Text explain what Health Certs is all about?
-        background: /images/hero-banner.png
+        background: /images/hero-banner.svg
         button: Get started here
         url: /contact-us/
     - infobar:
