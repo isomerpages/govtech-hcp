@@ -6,15 +6,14 @@ image: /images/healthcert-logo.svg
 permalink: /
 sections:
     - hero:
-        title: What is Health Certs?
-        subtitle: Text explain what Health Certs is all about?
+        title: Now you can give travellers easily verifiable Pre-departure test results
+        subtitle: With HealthCerts, travellers can show that their Pre-departure test (PDT) results come from recognised healthcare providers, while officers can check that the information has not been tampered with. 
         background: /images/hero-banner.svg
-        button: Get started here
-        url: /contact-us/
+        button: Sign up to issue HealthCerts
+        url: https://go.gov.sg/healthcertscollab
     - infobar:
-        title: List of providers
-        subtitle: Looking for solutions
-        description: About a sentence worth of description here
-        button: View them 
+        title: Need help to issue HealthCerts?
+        description: Here are some companies you may want to contact.
+        button: View list of issuers 
         url: /faq/
 ---
