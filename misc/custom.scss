@@ -210,8 +210,9 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-hero-body{
-  h1{
-    font-size: 2rem;
+  h1.display{
+    font-size: 3rem;
+    letter-spacing: -0.02em;
   }
 }
 
