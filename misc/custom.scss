@@ -209,6 +209,12 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+.bp-hero-body{
+  h1{
+    font-size: 2rem;
+  }
+}
+
 // Navbar
 .navbar{
   &-start{
