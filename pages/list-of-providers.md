@@ -1,15 +1,40 @@
 ---
-layout: homepage
 title: List Of Providers
 permalink: /list-of-providers/
-sections:
-- hero:
-    title: List of providers
-- infopic:
-    title: Integrity
-    description: Integrity drives everything we do at the Ministry of ABC
-    button: Learn More
-    url: https://www.google.com
-    image: /images/integrity.png
-    alt: Members of the Ministry of ABC shaking hands
 ---
+
+<style type="text/css">
+
+ .container {
+     display: flex;
+ }
+
+.card {
+    background: #444;
+    padding: 20px;
+}
+
+</style>
+
+
+<div class="container">
+
+<div class="card">
+<h3> company name </h3>
+<img src="https://via.placeholder.com/150x30">
+<p>dckdnvsdlvsdvl</p>
+</div>
+
+<div>
+<h3> company name </h3>
+<img src="https://via.placeholder.com/150x30">
+<p>dckdnvsdlvsdvl</p>
+</div>
+
+<div>
+<h3> company name </h3>
+<img src="https://via.placeholder.com/150x30">
+<p>dckdnvsdlvsdvl</p>
+</div>
+
+</div>
