@@ -18,11 +18,6 @@ permalink: /list-of-providers/
     width: 45%;
 }
 
-.card:hover {
-    background: #ededed;
-}
-
-/* On screens that are 600px or less, set the background color to olive */
 @media screen and (max-width:550px) {
   .card {
     width: 100%;
@@ -35,22 +30,22 @@ permalink: /list-of-providers/
 
 <div class="container">
 
-<a href="https://www.google.com" class="card">
+<div  class="card">
 <h5> company name </h5>
 <img src="https://via.placeholder.com/200x30">
-<p>dckdnvsdlvsdvl</p>
-</a>
+<a href="https://www.google.com">learn more</a>
+</div>
 
-<a class="card">
+<div class="card">
 <h5> csdsdfssdfdsfany name </h5>
 <img src="https://via.placeholder.com/200x30">
 <p>dckdnvsdlvsdvl</p>
-</a>
+</div>
 
-<a class="card">
+<div class="card">
 <h5> company name </h5>
 <img src="https://via.placeholder.com/200x30">
 <p>dckdnvsdlvsdvl</p>
-</a>
+</div>
 
 </div>
