@@ -14,17 +14,12 @@ permalink: /list-of-providers/
     background: #ddd;
     padding: 24px;
     margin: 8px;
-    width: 28%;
+    width: 45%;
 }
 
-@media screen and (max-width: 992px) {
-  .card {
-    width: 45%;
-  }
-}
 
 /* On screens that are 600px or less, set the background color to olive */
-@media screen and (max-width: 400px) {
+@media screen and (max-width:550px) {
   .card {
     width: 100%;
   }
