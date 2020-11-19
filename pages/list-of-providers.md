@@ -12,7 +12,7 @@ permalink: /list-of-providers/
 
 .card {
     display: block;
-    background: #f1f1f1;
+    background: #f8f8f8;
     padding: 24px;
     margin: 8px;
     width: 45%;
@@ -21,11 +21,11 @@ permalink: /list-of-providers/
 .logo{
   width: auto !important;
   height: 50px;
-  margin-top: 32px;
+  margin-top: 32px !important;
 }
 
 .learn-more{
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 @media screen and (max-width:1200px) {
