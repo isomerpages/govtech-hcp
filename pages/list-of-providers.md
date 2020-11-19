@@ -1,10 +1,10 @@
 ---
+layout: homepage
 title: List Of Providers
 permalink: /list-of-providers/
 sections:
 - hero:
     title: List of providers
-    background: 
 - infopic:
     title: Integrity
     description: Integrity drives everything we do at the Ministry of ABC
