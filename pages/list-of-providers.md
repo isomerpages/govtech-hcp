@@ -13,8 +13,8 @@ permalink: /list-of-providers/
 .card {
     background: #ddd;
     padding: 24px;
-    margin: 16px;
-    width: 30%;
+    margin: 8px;
+    flex: 1 1 250px;
 }
 
 </style>
@@ -24,19 +24,19 @@ permalink: /list-of-providers/
 
 <div class="card">
 <h4> company name </h4>
-<img src="https://via.placeholder.com/150x30">
+<img src="https://via.placeholder.com/200x30">
 <p>dckdnvsdlvsdvl</p>
 </div>
 
 <div class="card">
 <h4> csdsdfssdfdsfany name </h4>
-<img src="https://via.placeholder.com/150x30">
+<img src="https://via.placeholder.com/200x30">
 <p>dckdnvsdlvsdvl</p>
 </div>
 
 <div class="card">
 <h4> company name </h4>
-<img src="https://via.placeholder.com/150x30">
+<img src="https://via.placeholder.com/200x30">
 <p>dckdnvsdlvsdvl</p>
 </div>
 
