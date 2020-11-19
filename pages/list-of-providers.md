@@ -19,12 +19,12 @@ permalink: /list-of-providers/
 }
 
 .logo{
-  width: auto !important
+  width: auto !important;
   height: 50px;
 }
 
 .learn-more{
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 @media screen and (max-width:1200px) {
