@@ -12,17 +12,22 @@ permalink: /list-of-providers/
 
 .card {
     display: block;
-    background: #eeeeee;
+    background: #f1f1f1;
     padding: 24px;
     margin: 8px;
     width: 45%;
 }
 
 .logo{
+  width: auto !important
   height: 50px;
 }
 
-@media screen and (max-width:550px) {
+.learn-more{
+  font-size: 1rem;
+}
+
+@media screen and (max-width:1200px) {
   .card {
     width: 100%;
   }
