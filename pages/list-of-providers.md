@@ -21,6 +21,7 @@ permalink: /list-of-providers/
 .logo{
   width: auto !important;
   height: 50px;
+  margin-top: 32px;
 }
 
 .learn-more{
