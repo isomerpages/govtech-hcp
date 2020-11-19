@@ -13,7 +13,7 @@ permalink: /list-of-providers/
 .card {
     display: block;
     background: #f8f8f8;
-    padding: 24px;
+    padding: 24px 32px ;
     margin: 8px;
     width: 45%;
 }
