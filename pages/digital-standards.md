@@ -61,4 +61,3 @@ Checks the integrity of the document by digesting the content of the OA document
 Checks that the document has been issued and that it\'s issuance status is in good standing. Verify the issuance status against a
 record maintained externally, ie Records on a Blockchain or API endpoints.
 
-Visit <a href="https://schemata.openattestation.com/" target="_blank">Openattestation schemata page</a> for the latest Healthcerts schema.
