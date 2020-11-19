@@ -14,7 +14,7 @@ permalink: /list-of-providers/
     background: #ddd;
     padding: 24px;
     margin: 8px;
-    flex: 1 1 250px;
+    width: 250px;
 }
 
 </style>
