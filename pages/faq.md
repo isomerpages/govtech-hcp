@@ -14,7 +14,7 @@ HealthCerts schema was developed in collaboration with Government Technology Age
 These are typically issued by clinics, after the tests have been performed. Verification can be performed at the verifier site of the respective certificate issuers. Alternatively, a non-notarised HealthCert which is compatible to the Open Attestation format, can be verified in <a target="_blank" href="https://opencerts.io"> https://opencerts.io </a>. 
  
 **Notarised HealthCerts**<br>
-HealthCerts that had been notarised <a target="_blank" href="https://notarise.gov.sg"> here </a>, can be verified at<a target="_blank" href="https://verify.gov.sg">https://verify.gov.sg </a>.
+HealthCerts that had been notarised <a target="_blank" href="https://notarise.gov.sg"> here </a>, can be verified at <a target="_blank" href="https://verify.gov.sg">https://verify.gov.sg </a>.
 
 #### What is the format of the QR implementation?
 The QR code shall contain the following components:
