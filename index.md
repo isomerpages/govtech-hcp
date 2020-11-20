@@ -13,7 +13,7 @@ sections:
         url: https://go.gov.sg/healthcertscollab
     - infobar:
         title: What is HealthCerts?
-        description: Here are frequently asked questions.
+        description: And some other frequently asked questions.
         button: Learn more 
         url: /faq/
     - infobar:
