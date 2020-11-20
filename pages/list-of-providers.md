@@ -2,45 +2,11 @@
 title: List Of Providers
 permalink: /list-of-providers/
 ---
+ 
 
-<style type="text/css">
+<div class="providers-container">
 
- .container {
-     display: flex;
-     flex-wrap: wrap;
- }
-
-.card {
-    display: block;
-    background: #f8f8f8;
-    padding: 24px 32px ;
-    margin: 8px;
-    width: 45%;
-}
-
-.logo{
-  width: auto !important;
-  height: 50px;
-  margin-top: 32px !important;
-}
-
-.learn-more{
-  font-size: 1.25rem;
-}
-
-@media screen and (max-width:1200px) {
-  .card {
-    width: 100%;
-  }
-}
-
-
-</style>
-
-
-<div class="container">
-
-<div  class="card">
+<div class="card">
 <h5> Accredify</h5>
 <img src="/images/ACCREDIFY_logo.png" class="logo">
 <p>Enables institutions to issue tamper-proof digital certificates using the OpenCerts Schema.</p>

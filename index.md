@@ -12,8 +12,13 @@ sections:
         button: Sign up to issue HealthCerts
         url: https://go.gov.sg/healthcertscollab
     - infobar:
+        title: What is HealthCerts?
+        description: Here are frequently asked questions.
+        button: Learn more 
+        url: /faq/
+    - infobar:
         title: Need help to issue HealthCerts?
         description: Here are some companies you may want to contact.
-        button: View list of issuers 
-        url: /faq/
+        button: View list of providers 
+        url: /list-of-providers/
 ---
