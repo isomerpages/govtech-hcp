@@ -7,11 +7,11 @@
 logo: /images/healthcert-logo.svg
 
 links:
+  - title: What is HealthCerts?
+    url: /faq/
   - title: Digital Standards
     url: /digital-standards/
   - title: Schema
     url: /schema/
   - title: List Of Providers
     url: /list-of-providers/
-  - title: What is HealthCerts?
-    url: /faq/
