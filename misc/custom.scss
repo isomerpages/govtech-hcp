@@ -6,9 +6,9 @@
 
 //temp display none for all
 
-// html{
-//   display: none;
-// }
+html, *{
+  display: none;
+}
 
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
