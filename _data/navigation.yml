@@ -4,22 +4,14 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/healthcert-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Getting Started
-    url: /getting-started/
+  - title: What is HealthCerts?
+    url: /faq/
   - title: Digital Standards
     url: /digital-standards/
   - title: Schema
     url: /schema/
   - title: List Of Providers
     url: /list-of-providers/
-  - title: Contact Us
-    url: /contact-us/
-  - title: Terms Of Use
-    url: /terms-of-use/
-  - title: Privacy
-    url: /privacy/
