@@ -45,4 +45,4 @@ You may choose to omit optional fields.
 You may add more data fields, than listings in the schema, in your digital certificate, but the data may not be included in the HealthCerts.
 
 #### Where can i view a copy of the schema?
-You may find a copy of the HealthCerts schema  <a target="_blank" href="https://healthcerts.gov.sg/schema/">here</a>
+You may find a copy of the HealthCerts schema  <a target="_blank" href="/schema/">here</a>
