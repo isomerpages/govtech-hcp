@@ -4,12 +4,6 @@
 
 @charset "utf-8";
 
-//temp display none for all
-
-html, *{
-  display: none;
-}
-
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
