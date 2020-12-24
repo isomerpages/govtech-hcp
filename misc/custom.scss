@@ -379,6 +379,7 @@ font-size: 1.25rem;
   text-align: left;
 }
 
-.is-inline-block-desktop-only a::after{
-  content: " "
+.bp-container .is-inline-block-desktop-only a::after{
+  content: " ";
+  display: none;
 }
