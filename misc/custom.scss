@@ -378,3 +378,7 @@ font-size: 1.25rem;
 .bp-footer .is-right-desktop-only {
   text-align: left;
 }
+
+.is-inline-block-desktop-only a::after{
+  content: " "
+}
