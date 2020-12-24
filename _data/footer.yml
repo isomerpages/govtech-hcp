@@ -2,5 +2,5 @@ terms_of_use: /docs/Terms of Use v1.0.pdf
 privacy_policy: /docs/Privacy Policy v1.0.pdf
 
 links:
-  - title: <div style="width:200px;"><span style="color:white">Powered by</span><img src="/images/ACCREDIFY_logo.png"></div>
+  - title: <div style="width:100%; text-align:left"><span style="color:white; padding-bottom:16px">Powered by</span><img src="/images/ACCREDIFY_logo.png" width=200></div>
     url: /#
