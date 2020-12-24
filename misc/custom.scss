@@ -373,3 +373,13 @@ font-size: 1.25rem;
   width: 100%;
   }
 }
+
+// remove the text alignment for the powered by GDS logo
+.bp-footer .is-right-desktop-only {
+  text-align: left;
+}
+
+.bp-container .is-inline-block-desktop-only a::after{
+  content: " ";
+  display: none;
+}

@@ -1,2 +1,6 @@
 terms_of_use: /docs/Terms of Use v1.0.pdf
 privacy_policy: /docs/Privacy Policy v1.0.pdf
+
+links:
+  - title: <div style="width:100%; text-align:left"><span style="font-size:14px; color:white; padding-top:8px; display:block">Powered by</span><img src="/images/hive-logo.svg" width=200></div>
+    url: https://www.hive.tech.gov.sg/
