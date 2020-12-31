@@ -36,7 +36,7 @@ permalink: /list-of-providers/
 
 <div class="card">
 <h5>Jebhealth</h5>
-<img src="/images/jebhealth_logo" class="logo">
+<img src="/images/jebhealth_logo.png" class="logo">
 <p>One Portal connected to a storage, communication, commerce, health and payment network, providing OpenCerts or HealthCerts certificates for Covid-19 testing.</p>
 <a href="https://jebhealth.com" target="_blank" class="learn-more">Learn more</a>
 </div>
