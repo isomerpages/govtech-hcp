@@ -383,3 +383,10 @@ font-size: 1.25rem;
   content: " ";
   display: none;
 }
+// give me my footer !
+footer.bp-footer .is-hidden-mobile{
+  display: block !important;
+}
+footer.bp-footer .is-hidden-tablet, footer.bp-footer is-hidden-desktop{
+  display: none !important;
+}
