@@ -43,7 +43,7 @@ During presentation, these are the minimum data types that need to be displayed.
 <li>QR code shall be readable by any standard QR code reader (non-proprietary formatting)</li>
 </ol>
 </ol>
-<br><br>
+<br> 
 This requirement for shall apply to the various modes of certificate delivery, which could include sharing via
 <br>
 <ol>
@@ -53,7 +53,8 @@ Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised
 <li>Email which contains the memo and QR code</li>
 </ol>
 
-<p><sup>1<sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a></p>
+<sup>1<sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
+
 
 ## Verification
 
