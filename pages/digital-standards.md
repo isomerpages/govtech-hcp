@@ -5,13 +5,16 @@ permalink: /digital-standards/
 <style type="text/css">
 
 ol.letter{
-    list-style-type: upper-alpha;
+    list-style-type: lower-alpha;
 }
 
 ol.roman{
     list-style-type: lower-roman;
 }
 
+ol.upper-roman{
+    list-style-type: upper-roman;
+}
 
 </style>
 
@@ -29,7 +32,7 @@ ol.roman{
 HealthCerts shall comprise of the data elements defined in the schema.
 During presentation, these are the minimum data types that need to be displayed.
 
-<ol class="roman"> 
+<ol class="upper-roman"> 
 <li>Data fields as defined in <a href="https://schemata.openattestation.com/">schema</a><br></li>   
 <li>QR code<br></li>   
 <ol class="letter">
@@ -46,7 +49,7 @@ During presentation, these are the minimum data types that need to be displayed.
 <br> 
 This requirement for shall apply to the various modes of certificate delivery, which could include sharing via
 <br>
-<ol>
+<ol class="roman">
 <li>HealthCerts document<sup>1</sup> which contains the memo and QR code</li>
 <li>Mobile application which renders the HealthCerts document in (i)
 Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md" target="_blank">here</a> for details.</li>
