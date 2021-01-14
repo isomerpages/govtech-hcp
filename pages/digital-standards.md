@@ -1,5 +1,5 @@
 ---
-title: Digital Standards v4.1
+title: Digital Standards v5
 permalink: /digital-standards/
 ---
 <style type="text/css">
@@ -17,6 +17,8 @@ ol.upper-roman{
 }
 
 </style>
+
+<p>Updated 11th Jan 2021</p>
 
 ## Key Attributes
 <ol class="letter"> 
