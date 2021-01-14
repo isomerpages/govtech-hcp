@@ -29,33 +29,31 @@ ol.roman{
 HealthCerts shall comprise of the data elements defined in the schema.
 During presentation, these are the minimum data types that need to be displayed.
 
-1. <a href="https://github.com/Open-Attestation/adr/blob/master/universal_actions.md" target="_blank">QR code</a>
-    
-    <ol class="roman"> 
-    <li>Data fields as defined in <a href="https://schemata.openattestation.com/">schema</a><br></li>   
-    <li>QR code<br></li>   
-    <ol class="letter">
-    <li>  The QR code shall contain the following components:</li>
-    <ol class="roman">
-    <li>A link to fetch the HealthCert</li>
-    <li>Decryption key to decrypt HealthCert payload</li>
-    <li>URL to perform verification of HealthCert</li>
-    <li>Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a><br></li>
-    </ol>
-    <li>QR code shall be readable by any standard QR code reader (non-proprietary formatting)</li>
-    </ol>
-    </ol>
+<ol class="roman"> 
+<li>Data fields as defined in <a href="https://schemata.openattestation.com/">schema</a><br></li>   
+<li>QR code<br></li>   
+<ol class="letter">
+<li>  The QR code shall contain the following components:</li>
+<ol class="roman">
+<li>A link to fetch the HealthCert</li>
+<li>Decryption key to decrypt HealthCert payload</li>
+<li>URL to perform verification of HealthCert</li>
+<li>Encryption shall be based performed using <a href="https://github.com/Open-Attestation/oa-encryption/blob/master/src/index.ts" target="_blank">oa-encrypt</a><br></li>
+</ol>
+<li>QR code shall be readable by any standard QR code reader (non-proprietary formatting)</li>
+</ol>
+</ol>
+<br><br>
+This requirement for shall apply to the various modes of certificate delivery, which could include sharing via
+<br>
+<ol>
+<li>HealthCerts document<sup>1</sup> which contains the memo and QR code</li>
+<li>Mobile application which renders the HealthCerts document in (i)
+Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md" target="_blank">here</a> for details.</li>
+<li>Email which contains the memo and QR code</li>
+</ol>
 
-    This requirement for shall apply to the various modes of certificate delivery, which could include sharing via
-
-    <ol>
-    <li>HealthCerts document<sup>1</sup> which contains the memo and QR code</li>
-    <li>Mobile application which renders the HealthCerts document in (i)
-    Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md" target="_blank">here</a> for details.</li>
-    <li>Email which contains the memo and QR code</li>
-    </ol>
-    
-    <small><sup>1<sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a></small>
+<p><sup>1<sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a></p>
 
 ## Verification
 
