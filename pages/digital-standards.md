@@ -56,7 +56,7 @@ Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised
 <li>Email which contains the memo and QR code</li>
 </ol>
 
-<sup>1<sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
+<sup>1</sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
 
 
 ## Verification
