@@ -35,7 +35,7 @@ HealthCerts shall comprise of the data elements defined in the schema.
 During presentation, these are the minimum data types that need to be displayed.
 
 <ol class="upper-roman"> 
-<li>Data fields as defined in <a href="https://schemata.openattestation.com/">schema</a><br></li>   
+<li>Data fields as defined in <a href="https://schemata.openattestation.com/" target="_blank">schema</a><br></li>   
 <li>QR code<br></li>   
 <ol class="letter">
 <li>  The QR code shall contain the following components:</li>
