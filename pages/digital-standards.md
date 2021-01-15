@@ -74,8 +74,8 @@ The verifier shall attest the following datasets
 
 <hr>
 
-<div><b>Footnotes<b></div>
-
+<div><b>Footnotes</b></div>
+<br>
 <a id="def1" style="padding-top:50px"></a>
 
 1.Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
