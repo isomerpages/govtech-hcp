@@ -63,7 +63,7 @@ Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised
 
 The verifier shall attest the following datasets
 
-<div style="padding:0 50px">
+<div style="padding:0 24px">
 <h4>1. ISSUER_IDENTITY</h4>
 <p>Checks and returns the identity of the issuer. Verify the identity of the issuer against a decentralised identity provider (ie DID, DNS, etc) or some centrally managed identity registry.</p>
 <h4>2. DOCUMENT_INTEGRITY </h4>
