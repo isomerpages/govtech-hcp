@@ -1,5 +1,5 @@
 ---
-title: Digital Standards v5
+title: Digital Standards
 permalink: /digital-standards/
 ---
 <style type="text/css">
@@ -52,28 +52,28 @@ During presentation, these are the minimum data types that need to be displayed.
 This requirement for shall apply to the various modes of certificate delivery, which could include sharing via
 <br>
 <ol class="roman">
-<li>HealthCerts document<sup>1</sup> which contains the memo and QR code</li>
+<li>HealthCerts document<a href="#def1"><sup>1</sup></a> which contains the memo and QR code</li>
 <li>Mobile application which renders the HealthCerts document in (i)
 Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md" target="_blank">here</a> for details.</li>
 <li>Email which contains the memo and QR code</li>
 </ol>
 
-<sup>1</sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
-
 
 ## Verification
 
 The verifier shall attest the following datasets
+<div style="padding-left:32px ; ">
+<h3> 1. ISSUER_IDENTITY</h3>
 
-### 1. ISSUER_IDENTITY
+<p>Checks and returns the identity of the issuer. Verify the identity of the issuer against a decentralised identity provider (ie DID, DNS, etc) or some centrally managed identity registry.</p>
 
-Checks and returns the identity of the issuer. Verify the identity of the issuer against a decentralised identity provider (ie DID, DNS, etc) or some centrally managed identity registry.
+<h3> 2. DOCUMENT_INTEGRITY </h3>
 
-### 2. DOCUMENT_INTEGRITY 
+<p>Checks the integrity of the document by digesting the content of the OA document and comparing it with the document's targetHash</p>
 
-Checks the integrity of the document by digesting the content of the OA document and comparing it with the document\'s targetHash
+<h3> 3. DOCUMENT_STATUS</h3>
 
-### 3. DOCUMENT_STATUS
+ <p>Checks that the document has been issued and that it's issuance status is in good standing. Verify the issuance status against a record maintained externally, ie Records on a Blockchain or API endpoints.</p>
+</div>
 
- Checks that the document has been issued and that it\'s issuance status is in good standing. Verify the issuance status against a record maintained externally, ie Records on a Blockchain or API endpoints.
-
+<a id="def1"/><sup>1</sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
