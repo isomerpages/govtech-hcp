@@ -64,17 +64,18 @@ Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised
 The verifier shall attest the following datasets
 
 <div style="padding:0 50px">
-<h3>1. ISSUER_IDENTITY</h3>
+<h4>1. ISSUER_IDENTITY</h4>
 <p>Checks and returns the identity of the issuer. Verify the identity of the issuer against a decentralised identity provider (ie DID, DNS, etc) or some centrally managed identity registry.</p>
-<h3>2. DOCUMENT_INTEGRITY </h3>
+<h4>2. DOCUMENT_INTEGRITY </h4>
 <p>Checks the integrity of the document by digesting the content of the OA document and comparing it with the document's targetHash</p>
-<h3>3. DOCUMENT_STATUS</h3>
+<h4>3. DOCUMENT_STATUS</h4>
 <p>Checks that the document has been issued and that it\'s issuance status is in good standing. Verify the issuance status against a record maintained externally, ie Records on a Blockchain or API endpoints.</p>
 <div>
 
 <hr>
 
-*** Footnotes ***
+<div><b>Footnotes<b></div>
 
 <a id="def1" style="padding-top:50px"></a>
-<sup>1</sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
+
+1.Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
