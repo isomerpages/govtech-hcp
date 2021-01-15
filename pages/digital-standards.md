@@ -76,4 +76,4 @@ The verifier shall attest the following datasets
  <p>Checks that the document has been issued and that it's issuance status is in good standing. Verify the issuance status against a record maintained externally, ie Records on a Blockchain or API endpoints.</p>
 </div>
 
-<a id="def1"/><sup>1</sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
+<a id="def1"></a><sup>1</sup>Documents shall be verifiable on <a href="https://opencerts.io" target="_blank">https://opencerts.io</a>
