@@ -53,7 +53,7 @@ This requirement for shall apply to the various modes of certificate delivery, w
 <br>
 <ol class="roman">
 <li>HealthCerts document<a href="#def1"><sup>1</sup></a> which contains the memo and QR code</li>
-<li>Mobile application which renders the HealthCerts document in (i)
+<li>Mobile application which renders the HealthCerts document in (i)<br>
 Refer <a href="https://github.com/Open-Attestation/adr/blob/master/decentralised_rendering.md" target="_blank">here</a> for details.</li>
 <li>Email which contains the memo and QR code</li>
 </ol>
@@ -69,7 +69,7 @@ The verifier shall attest the following datasets
 <h4>2. DOCUMENT_INTEGRITY </h4>
 <p>Checks the integrity of the document by digesting the content of the OA document and comparing it with the document's targetHash</p>
 <h4>3. DOCUMENT_STATUS</h4>
-<p>Checks that the document has been issued and that it\'s issuance status is in good standing. Verify the issuance status against a record maintained externally, ie Records on a Blockchain or API endpoints.</p>
+<p>Checks that the document has been issued and that it's issuance status is in good standing. Verify the issuance status against a record maintained externally, ie Records on a Blockchain or API endpoints.</p>
 <div>
 
 <hr>
