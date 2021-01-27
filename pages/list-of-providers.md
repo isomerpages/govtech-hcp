@@ -18,7 +18,7 @@ permalink: /list-of-providers/
 <img src="/images/aokpass_logo.svg" class="logo">
 <p>ICC AOKpass provides you with a digitally authenticated, secure and portable copy of your medical records, approved by a medical professional and accessible only by you.
 </p>
-<a href="https://www.accredify.io/" target="_blank" class="learn-more">Learn more</a>
+<a href="https://www.aokpass.com/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
 <div class="card">
