@@ -7,13 +7,6 @@ permalink: /list-of-providers/
 <div class="providers-container">
 
 <div class="card">
-<h5>1Pass</h5>
-<img src="/images/1pass_logo.png" class="logo">
-<p>1Pass facilitates the issuance of HealthCerts based on the OpenCerts Schema to enable secure verification of electronic certificates.</p>
-<a href="https://1pass.tubalt.com/" target="_blank" class="learn-more">Learn more</a>
-</div>
-
-<div class="card">
 <h5>3DCerts</h5>
 <img src="/images/3DCerts_logo.svg" class="logo">
 <p>3DCerts enables institutions to create blockchain-secured electronic documents. We provide an end-to-end solution for tamper-proof digital document issuance and verification.</p>
