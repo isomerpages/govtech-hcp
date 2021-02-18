@@ -36,13 +36,6 @@ permalink: /list-of-providers/
 </div>
 
 <div class="card">
-<h5>Convergence.tech</h5>
-<img src="/images/CONVERGENCE_logo.png" class="logo">
-<p>Provides a Self-Sovereign Identity (SSI) powered digital credential solution supporting the OpenCerts schema as well as W3C DID and Verifiable Credential standards and the developing DIDComms protocols.</p>
-<a href="https://convergence.tech/" target="_blank" class="learn-more">Learn more</a>
-</div>
-
-<div class="card">
 <h5>Jebhealth</h5>
 <img src="/images/jebhealth_logo.png" class="logo">
 <p>We empower individuals, corporate organisations and healthcare professionals to certify and verify COVID-19 test results, medical and immunisation records, telehealth documentation and digital payments transacted in the healthcare ecosystem using HealthCerts.</p>
@@ -56,8 +49,6 @@ permalink: /list-of-providers/
 <a href="https://www.knowledgecatalyst.io/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
-
-
 <div class="card">
 <h5>Nextid</h5>
 <img src="/images/NEXTID_logo.png" class="logo">
@@ -70,6 +61,13 @@ permalink: /list-of-providers/
 <img src="/images/RIVERR_logo.png" class="logo">
 <p>Provides a trusted universal industry standard for identification and health credentials. Riverrs platforms conform to different workflows that require tamper-proof, verifiable documentation.</p>
 <a href="https://riverr.ai/" target="_blank" class="learn-more">Learn more</a>
+</div>
+
+<div class="card">
+<h5>Trybe.ID</h5>
+<img src="/images/TRYBEID_logo.png" class="logo">
+<p>Provides a Self-Sovereign Identity (SSI) powered digital credential solution supporting the OpenCerts schema as well as W3C DID and Verifiable Credential standards and the developing DIDComms protocols.</p>
+<a href="https://convergence.tech/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
 </div>
