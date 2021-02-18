@@ -67,7 +67,7 @@ permalink: /list-of-providers/
 <h5>Trybe.ID</h5>
 <img src="/images/TRYBEID_logo.png" class="logo">
 <p>Provides a Self-Sovereign Identity (SSI) powered digital credential solution supporting the OpenCerts schema as well as W3C DID and Verifiable Credential standards and the developing DIDComms protocols.</p>
-<a href="https://convergence.tech/" target="_blank" class="learn-more">Learn more</a>
+<a href="https://trybe.id/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
 </div>
