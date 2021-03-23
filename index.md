@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Health Certs
+title: HealthCerts
 description: HealthCerts is a set of digital standards and schema for issuing digital COVID-19 test results certificates that are in line with international standards and the Singapore Government’s requirements. 
 image: /images/healthcert-logo.svg
 permalink: /
