@@ -16,4 +16,16 @@ sections:
             - title: If you are a provider,
               description: Sign up to Issue Healthcerts for Medical Faciities
               url: https://go.gov.sg/healthcertscollab
+    - infopic:
+        title: If you are a traveller, 
+        description: Endorse your Pre-Departure Test Healthcerts prior to travel
+        button: Proceed 
+        url: http://www.notarise.gov.sg
+        image: https://via.placeholder.com/300.png
+    - infopic:
+        title: If you are a provider,
+        description: Sign up to Issue Healthcerts for Medical Faciities
+        button: Proceed 
+        url: https://go.gov.sg/healthcertscollab
+        image: https://via.placeholder.com/300.png
 ---              
