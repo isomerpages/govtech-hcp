@@ -7,8 +7,7 @@ permalink: /
 sections:
     - hero:
         title: Now you can give travellers easily verifiable Pre-departure test results
-        subtitle: With HealthCerts, travellers can show that their Pre-departure test (PDT) results come from recognised healthcare providers, while officers can check that the information has not been tampered with. 
-        <div style="#f00"> try out <div>
+        subtitle: With HealthCerts, travellers can show that their Pre-departure test (PDT) results come from recognised healthcare providers, while officers can check that the information has not been tampered with.
         background: /images/hero-banner.svg
         key_highlights:
             - title: If you are a traveller,
