@@ -9,7 +9,15 @@ sections:
         title: Now you can give travellers easily verifiable Pre-departure test results
         subtitle: With HealthCerts, travellers can show that their Pre-departure test (PDT) results come from recognised healthcare providers, while officers can check that the information has not been tampered with. 
         background: /images/hero-banner.svg
-        button: Sign up to issue HealthCerts
+    - infobar:
+        title: If you are a traveller, 
+        description: Endorse your Pre-Departure Test Healthcerts prior to travel
+        button: Proceed 
+        url: http://www.notarise.gov.sg
+    - infobar:
+        title: If you are a provider,
+        description: Sign up to Issue Healthcerts for Medical Faciities
+        button: Proceed 
         url: https://go.gov.sg/healthcertscollab
     - infobar:
         title: What is HealthCerts?
