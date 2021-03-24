@@ -21,12 +21,13 @@ sections:
         description: Endorse your Pre-Departure Test Healthcerts prior to travel
         button: Proceed 
         url: http://www.notarise.gov.sg
-        image: 
+        image: https://via.placeholder.com/300.png
     - infopic:
         title: If you are a provider,
         description: Sign up to Issue Healthcerts for Medical Faciities
         button: Proceed 
         url: https://go.gov.sg/healthcertscollab
+        image: https://via.placeholder.com/300.png
     - infobar:
         title: What is HealthCerts?
         description: And some other frequently asked questions.
