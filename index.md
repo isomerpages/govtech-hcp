@@ -11,11 +11,11 @@ sections:
         background: /images/hero-banner.svg
         key_highlights:
             - title: If you are a traveller,
-            description: Endorse your Pre-Departure Test Healthcerts prior to travel
-            url: http://www.notarise.gov.sg
+                description: Endorse your Pre-Departure Test Healthcerts prior to travel
+                url: http://www.notarise.gov.sg
             - title: If you are a provider,
-            description: Sign up to Issue Healthcerts for Medical Faciities
-            url: https://go.gov.sg/healthcertscollab
+                description: Sign up to Issue Healthcerts for Medical Faciities
+                url: https://go.gov.sg/healthcertscollab
     - infopic:
         title: If you are a traveller, 
         description: Endorse your Pre-Departure Test Healthcerts prior to travel
@@ -37,3 +37,9 @@ sections:
         button: View list of providers 
         url: /list-of-providers/
 ---
+<div class="card">
+<h5>1Pass</h5>
+<img src="/images/1pass_logo.png" class="logo">
+<p>1Pass facilitates the issuance of HealthCerts based on the OpenCerts Schema to enable secure verification of electronic certificates.</p>
+<a href="https://1pass.tubalt.com/" target="_blank" class="learn-more">Learn more</a>
+</div>
