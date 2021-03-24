@@ -11,7 +11,7 @@ sections:
         background: /images/hero-banner.png
         key_highlights:
             - title: If you are a traveller
-              description: Digitally endorse PDT results prior to your trip
+              description: Get PDT results digitally endorsed before travel
               url: http://www.notarise.gov.sg
             - title: If you are a company,
               description: Sign up to issue HealthCerts for medical facilities
