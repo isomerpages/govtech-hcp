@@ -57,9 +57,9 @@ permalink: /list-of-providers/
 </div>
 
 <div class="card">
-<h5>Nextid</h5>
+<h5>NextID</h5>
 <img src="/images/NEXTID_logo.png" class="logo">
-<p>We are leading in implementation of HealthCerts for Covid-19 testing. Our hosted NextCert service produces digitally-signed, tamper-proof certificates which support either OpenCerts or HealthCerts schemas.</p>
+<p>Our hosted NextCert service produces digitally-signed, tamper-proof certificates which implement the OpenAttestation framework. NextCert supports any data structure or graphical layout.</p>
 <a href="https://nextid.com/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
