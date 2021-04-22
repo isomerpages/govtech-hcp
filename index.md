@@ -6,12 +6,12 @@ image: /images/healthcert-logo.svg
 permalink: /
 sections:
     - hero:
-        title: Provide travellers with easily verifiable Pre-Departure Test results 
-        subtitle: With HealthCerts, travellers can show Pre-Departure Tests (PDT) results from recognised healthcare providers, while officers can check the information has not been tampered with. 
+        title: Provide travellers with easily verifiable digital certificates
+        subtitle: With HealthCerts, travellers can show Pre-Departure Test (PDT) or Vaccination records from recognised medical facilities, while officers can check the information has not been tampered with. 
         background: /images/hero-banner.png
         key_highlights:
             - title: If you are a traveller
-              description: Get PDT results digitally endorsed before travel
+              description: Get PDT results digitally endorsed or Vaccine Cert issued before travel
               url: http://www.notarise.gov.sg
             - title: If you are a company,
               description: Sign up to issue HealthCerts for medical facilities
