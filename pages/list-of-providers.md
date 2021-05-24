@@ -39,7 +39,7 @@ permalink: /list-of-providers/
 <h5>Collinson Assistance Service Ltd</h5>
 <img src="/images/Collinson_EN_Logo.png" class="logo">
 <p>Collinson, a leader in traveller experiences, leverages 55 years’ of industry knowledge to deliver security assistance and travel medical services ensuring the safety, welfare and comfort of 55 million business and leisure travellers around the world</p>
-<a href="https://www.collinsongroup.com/" target="_blank" class="learn-more">Learn more</a>
+<a href="https://apac.collinsonassistance.com/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
 <div class="card">
