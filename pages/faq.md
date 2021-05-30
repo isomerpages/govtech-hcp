@@ -44,5 +44,7 @@ You may choose to omit optional fields.
 <!-- You may add more data fields, than listings in the schema, in your digital certificate, but the data may not be included in the Notarized HealthCert. -->
 You may add more data fields, than listings in the schema, in your digital certificate, but the data may not be included in the HealthCerts.
 
-#### Where can i view a copy of the schema?
-You may find a copy of the HealthCerts schema  <a target="_blank" href="/schema/">here</a>
+#### Where can I view a copy of the schema specific to Pre-Departure Test (PDT) or Vaccination, or their sample certificates for testing purposes?
+You may find a copy of the relevant HealthCerts schema or sample certificates <a target="_blank" href="https://schemata.openattestation.com">here</a>, under 'HealthCerts v1.0'.
+
+For a visual representation of these sample certificates, please view <a target="_blank" href="https://gallery.openattestation.com/tag/health-certs">here</a>.
