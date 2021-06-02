@@ -51,7 +51,7 @@ permalink: /list-of-providers/
  
 <div class="card">
 <h5>Kiyo</h5>
-<img src="/images/kiyo_logo.png" class="logo">
+<img src="/images/kiyo_logo.svg" class="logo">
 <p>Kiyo provides a software as a service called QRLab that specializes in enabling medical laboratories to implement and print secure and verifiable QR codes on lab reports via an integrated and automated process flow. We strive to ensure compliance on an international level to provide our clients a seamless experience, and we believe HealthCerts' standards help us do that.</p>
 <a href="https://kiyo.my/" target="_blank" class="learn-more">Learn more</a>
 </div>
