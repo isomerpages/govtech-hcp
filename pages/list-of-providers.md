@@ -48,6 +48,13 @@ permalink: /list-of-providers/
 <p>We empower individuals, corporate organisations and healthcare professionals to certify and verify COVID-19 test results, medical and immunisation records, telehealth documentation and digital payments transacted in the healthcare ecosystem using HealthCerts.</p>
 <a href="https://jebhealth.com" target="_blank" class="learn-more">Learn more</a>
 </div>
+
+<div class="card">
+<h5>JEDTrade Pte Ltd</h5>
+<img src="/images/jedtrade_logo.jpg" class="logo">
+<p>JEDTrade enables enterprises to issue trusted and tamper-proof digital certificates and documents using our Jupyton Certs or GovTech’s OpenAttestation framework. OpenAttestation works include issuing TradeTrust documents (IMDA Award winning project) and listed as collaborator on OpenCerts and HealthCerts. With our workflow engine, we allow enterprises to customize their business workflow.</p>
+<a href="https://www.jedtrade.com" target="_blank" class="learn-more">Learn more</a>
+</div>
  
 <div class="card">
 <h5>Kiyo</h5>
