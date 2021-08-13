@@ -44,7 +44,7 @@ permalink: /list-of-providers/
  
 <div class="card">
 <h5>FilPass</h5>
-<img src="/images/FILPASS_logo.png" class="logo">
+<img src="/images/FILPASS_logo.jpg" class="logo">
 <p>FilPass is a tamperproof Digital Identity that allows Filipinos to transact with agencies online in a secured manner.</p>
 <a href="https://filpass.ph/" target="_blank" class="learn-more">Learn more</a>
 </div> 
