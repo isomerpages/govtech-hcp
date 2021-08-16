@@ -41,6 +41,13 @@ permalink: /list-of-providers/
 <p>Collinson, a leader in traveller experiences, leverages 55 years’ of industry knowledge to deliver security assistance and travel medical services ensuring the safety, welfare and comfort of 55 million business and leisure travellers around the world</p>
 <a href="https://apac.collinsonassistance.com/" target="_blank" class="learn-more">Learn more</a>
 </div>
+ 
+<div class="card">
+<h5>FilPass</h5>
+<img src="/images/FILPASS_logo.jpg" class="logo">
+<p>FilPass is a tamperproof Digital Identity that allows Filipinos to transact with agencies online in a secured manner.</p>
+<a href="https://filpass.ph/" target="_blank" class="learn-more">Learn more</a>
+</div> 
 
 <div class="card">
 <h5>Jebhealth</h5>
