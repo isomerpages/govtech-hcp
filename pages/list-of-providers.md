@@ -34,6 +34,13 @@ permalink: /list-of-providers/
 </p>
 <a href="https://www.aokpass.com/" target="_blank" class="learn-more">Learn more</a>
 </div>
+ 
+ <div class="card">
+<h5>BEFIED</h5>
+<img src="/images/BEFIED_logo.jpg" class="logo">
+<p>Providing an End-to-End System for Issuing Authorities to issue Tamperproof Verifiable Documents and creating a Digital Identity for the Recipient to manage their Credential Lifecycle.</p>
+<a href="https://befied.com/" target="_blank" class="learn-more">Learn more</a>
+</div>
 
 <div class="card">
 <h5>Collinson Assistance Service Ltd</h5>
