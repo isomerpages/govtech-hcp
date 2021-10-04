@@ -12,12 +12,14 @@ navlinks:
         url: /schema/
       - title: List Of Providers
         url: /list-of-providers
-  - title: For help
+  - title: Help
     sublinks:
-      - title: Telegram (HealthCerts updates)
-        url: https://t.me/joinchat/Gjwveplr8bpWNn4Q
       - title: Support email
         url: mailto:support@notarise.gov.sg
+  - title: New Features & Announcements
+    sublinks:
+      - title: Healthcerts Telegram Community
+        url: https://t.me/joinchat/Gjwveplr8bpWNn4Q
 
 links:
   - title: <div style="width:100%; text-align:left"><span style="font-size:14px; color:white; padding-top:8px; display:block">Powered by</span><img src="/images/hive-logo.svg" width=200></div>
