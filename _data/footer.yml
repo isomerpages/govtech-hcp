@@ -2,7 +2,7 @@ terms_of_use: /docs/Terms of Use v1.0.pdf
 privacy_policy: /docs/Privacy Policy v1.1.pdf
 
 navlinks:
-  - title: Get started
+  - title: Get Started
     sublinks:
       - title: What is HealthCerts?
         url: /faq/
@@ -10,13 +10,13 @@ navlinks:
         url: /digital-standards/
       - title: Schema
         url: /schema/
-      - title: List Of Providers
+      - title: List of Providers
         url: /list-of-providers
   - title: Help
     sublinks:
       - title: Support Email
         url: mailto:support@notarise.gov.sg
-  - title: New Features & Announcements
+  - title: New Features and Updates
     sublinks:
       - title: Healthcerts Telegram Community
         url: https://t.me/joinchat/Gjwveplr8bpWNn4Q
