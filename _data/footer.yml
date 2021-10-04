@@ -14,7 +14,7 @@ navlinks:
         url: /list-of-providers
   - title: Help
     sublinks:
-      - title: Support email
+      - title: Support Email
         url: mailto:support@notarise.gov.sg
   - title: New Features & Announcements
     sublinks:
