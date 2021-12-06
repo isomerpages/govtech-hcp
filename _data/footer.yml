@@ -16,11 +16,7 @@ navlinks:
     sublinks:
       - title: Support Email
         url: mailto:support@notarise.gov.sg
-  - title: New Features and Updates
-    sublinks:
-      - title: Healthcerts Telegram Community
-        url: https://t.me/joinchat/Gjwveplr8bpWNn4Q
-
+ 
 links:
   - title: <div style="width:100%; text-align:left"><span style="font-size:14px; color:white; padding-top:8px; display:block">Powered by</span><img src="/images/hive-logo.svg" width=200></div>
     url: https://www.hive.tech.gov.sg/
