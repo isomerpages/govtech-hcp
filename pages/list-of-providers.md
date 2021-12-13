@@ -17,7 +17,7 @@ permalink: /list-of-providers/
 <h5>3DCerts</h5>
 <img src="/images/3DCerts_logo.svg" class="logo">
 <p>3DCerts enables institutions to create blockchain-secured electronic documents. We provide an end-to-end solution for tamper-proof digital document issuance and verification.</p>
-<a href="https://www.3dcerts.com/" target="_blank" class="learn-more">Learn more</a>
+<a href="https://www.3dcerts.sg/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
 <div class="card">
