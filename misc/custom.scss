@@ -381,13 +381,17 @@ font-size: 1.25rem;
 }
 
 
-.footer-link-container a::after{
+.footer-link-container a::after , .bp-container a::after {
   content: " ";
   display: none;
 }
 
 .footer-link-container li:first-child{
   width: 100%;
+}
+
+.footer-link-container li:first-child > p{
+  display:none;
 }
 
 // give me my footer !
