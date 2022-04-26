@@ -98,4 +98,11 @@ permalink: /list-of-providers/
 <a href="https://trybe.id/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
+<div class="card">
+<h5>UNO Technologies</h5>
+<img src="/images/UNO_logo.png" class="logo">
+<p>UNO Technologies help doctors and other healthcare professionals to certify and issue tamper-proof digital certificates with strict accordance to HealthCerts standards</p>
+<a href="https://www.unotech.io/" target="_blank" class="learn-more">Learn more</a>
+</div>
+
 </div>
