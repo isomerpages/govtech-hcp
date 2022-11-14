@@ -78,6 +78,13 @@ permalink: /list-of-providers/
 </div>
 
 <div class="card">
+<h5>MyCLNQ Health Pte Ltd</h5>
+<img src="/images/MyCLNQ_logo.jpg" class="logo">
+<p>MyCLNQ Health is a Singapore-based Health Tech company focused on connected health, also known as technology-enabled care (TEC). The company has successful created the MyCLNQ app – a one-stop solution for all your healthcare needs.</p>
+<a href="https://ssivixlab.com/" target="_blank" class="learn-more">Learn more</a>
+</div>
+
+<div class="card">
 <h5>NextID</h5>
 <img src="/images/NEXTID_logo.png" class="logo">
 <p>Our hosted NextCert service produces digitally-signed, tamper-proof certificates which implement the OpenAttestation framework. NextCert supports any data structure or graphical layout.</p>
