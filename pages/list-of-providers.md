@@ -36,13 +36,6 @@ permalink: /list-of-providers/
 </div>
 
 <div class="card">
-<h5>Collinson Assistance Service Ltd</h5>
-<img src="/images/Collinson_EN_Logo.png" class="logo">
-<p>Collinson, a leader in traveller experiences, leverages 55 years’ of industry knowledge to deliver security assistance and travel medical services ensuring the safety, welfare and comfort of 55 million business and leisure travellers around the world</p>
-<a href="https://apac.collinsonassistance.com/" target="_blank" class="learn-more">Learn more</a>
-</div>
- 
-<div class="card">
 <h5>FilPass</h5>
 <img src="/images/FILPASS_logo.jpg" class="logo">
 <p>FilPass is a tamperproof Digital Identity that allows Filipinos to transact with agencies online in a secured manner.</p>
@@ -96,13 +89,6 @@ permalink: /list-of-providers/
 <img src="/images/RIVERR_logo.png" class="logo">
 <p>Provides a trusted universal industry standard for identification and health credentials. Riverrs platforms conform to different workflows that require tamper-proof, verifiable documentation.</p>
 <a href="https://riverr.ai/" target="_blank" class="learn-more">Learn more</a>
-</div>
-
-<div class="card">
-<h5>Trybe.ID</h5>
-<img src="/images/TRYBEID_logo.png" class="logo">
-<p>Provides a Self-Sovereign Identity (SSI) powered digital credential solution supporting the OpenCerts schema as well as W3C DID and Verifiable Credential standards and the developing DIDComms protocols.</p>
-<a href="https://trybe.id/" target="_blank" class="learn-more">Learn more</a>
 </div>
 
 <div class="card">
