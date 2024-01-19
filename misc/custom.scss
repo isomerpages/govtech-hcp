@@ -414,6 +414,10 @@ font-size: 1.25rem;
 
 
 #notification-bar.bp-notification.bg-secondary.is-marginless {
-  color: #000;
-  background-color: #FBD44C;
+  background-color: #FBD44C !important;
+}
+
+#notification-bar.bp-notification.bg-secondary.is-marginless .has-text-white{
+  color: #000 !important;
+
 }
