@@ -421,3 +421,8 @@ font-size: 1.25rem;
   color: #000 !important;
 
 }
+
+
+#notification-bar.bp-notification.bg-secondary.is-marginless #cancel-notification{
+  display: none;
+}
