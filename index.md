@@ -4,7 +4,7 @@ title: HealthCerts
 description: HealthCerts is a set of digital standards and schema for issuing digital COVID-19 test results certificates that are in line with international standards and the Singapore Government’s requirements. 
 image: /images/healthcert-logo.svg
 permalink: /
-notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
+notification: Due to a declining demand for COVID travel certificates globally, the HealthCerts website will be closing after March 18, 2024. 
 sections:
     - hero:
         title: Provide travellers with easily verifiable digital certificates
